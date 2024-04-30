@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3ead0d489639ee4bbf3409b8b74b5c0, type: 3}
+  m_Name: BossLoot
+  m_EditorClassIdentifier: 
+  allLoots:
+  - thisloot: {fileID: 2644972265743851656, guid: 567bcd8b2ac8ec046a8febffe322936a,
+      type: 3}
+    dropChance: 100
